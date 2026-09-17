@@ -1,7 +1,7 @@
 # Hi there, I'm Elías Cabeza de Vaca 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elias-cabeza-de-vaca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://eliascabezadevaca.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://eliascabezadevaca.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliascabezadevaca@gmail.com)
 
 ---
@@ -31,9 +31,10 @@
 
 ### 💻 Featured Projects
 
-- 📦 **[Backend Inventory System](https://github.com/Elias-cdv)** — Node.js & PostgreSQL application using MVC architecture with secure authentication and centralized error handling.
-- 🧪 **[QA Automation Suite](https://github.com/Elias-cdv)** — Automated unit and integration testing suite built in Python with PyTest for rapid bug detection.
-- ⚙️ **[SmartQueue Algorithms](https://github.com/Elias-cdv)** — Data structures project in C# optimizing queue management through node-based circular lists.
+- 📦 **[Backend Inventory System](https://github.com/Elias-cdv/340-starter-main)** — Full-stack MVC web app built with Node.js & PostgreSQL, featuring centralized error handling and secure authentication. *(Live Demo on [Render](https://three40-elias-app.onrender.com))*
+- 🧪 **[QA Automation Suite](https://github.com/Elias-cdv/cse270)** — Test automation suite using Python and PyTest for unit/integration testing and vulnerability detection.
+- ⚙️ **[SmartQueue Algorithms](https://github.com/Elias-cdv/SmartQueue)** — C# queue management system leveraging circular lists and node-based data structures for optimal memory management.
+- 📖 **[ULiahona Reading App](https://github.com/Elias-cdv/ULiahona-repository)** — Modular MVC web app with Vanilla JavaScript, YouTube Music API integration, and real-time text highlighting using LocalStorage.
 
 ---
 
